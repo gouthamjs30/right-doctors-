@@ -1,0 +1,22 @@
+{
+  "name": "right-doctors-",
+  "version": "1.0.0",
+  "description": "assesment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouthamjs30/right-doctors-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gouthamjs30/right-doctors-/issues"
+  },
+  "homepage": "https://github.com/gouthamjs30/right-doctors-#readme"
+}
